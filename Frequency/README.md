@@ -9,6 +9,8 @@ you can change the value of frequency and mod to change the type of graph.
 
 ![image](https://user-images.githubusercontent.com/37871733/137483670-c6ee8ed8-da70-4c28-af74-47d866877248.png)
 
+## here'a an example of that program. ##
+
 
 ### Hope you'll like it and appeciate it. ###
                😉😉😉
