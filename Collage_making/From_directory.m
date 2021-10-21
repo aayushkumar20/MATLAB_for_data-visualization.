@@ -1,4 +1,4 @@
-imagesdirectory = dir('your directory');
+imagesdirectory = dir('your directory name');
 for i = 1:size(imagesdirectory, 1)
     name = imagesdirectory(i).name;
     name = strcat('your directory', name);
