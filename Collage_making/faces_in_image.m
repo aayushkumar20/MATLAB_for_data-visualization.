@@ -1,4 +1,4 @@
-image = imread('name.jpg');
+image = imread('name of image.jpg');
 faceD = vision.CascadeObjectDetector('MergeThreshold',8);
 bbox = step(faceD, image);
 for i = 1 : size(bbox,1);
